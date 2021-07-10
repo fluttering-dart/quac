@@ -1,0 +1,12 @@
+name: quac
+description: qua client
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: '>=2.13.0 <3.0.0'
+
+dependencies:
+  quap:
+    git: git@github.com:fluttering-dart/quap.git 
+  pedantic: ^1.10.0
