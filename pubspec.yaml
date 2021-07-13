@@ -9,4 +9,3 @@ environment:
 dependencies:
   quap:
     git: git@github.com:fluttering-dart/quap.git 
-  pedantic: ^1.10.0
